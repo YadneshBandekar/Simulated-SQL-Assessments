@@ -32,7 +32,7 @@ WHERE SignupDate >= '2022-01-01' AND SignupDate < '2023-01-01';
 
 **Expected Output:** A single column showing the total revenue for February 2023.
 
-***Sometimes I like to take a quick peek at my data at a record level before calculating any metrics. So time and again I'll include a "base query" if I feel the need to see our intermediate records.***  
+***Sometimes I like to take a quick peek at my data at a record level before calculating any metrics. So time and again I'll include a "base query" if I feel the need to see our intermediate data.***  
 
 ```sql
 -- Base Query
