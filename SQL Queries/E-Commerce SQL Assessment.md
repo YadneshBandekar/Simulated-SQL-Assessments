@@ -1,4 +1,4 @@
-# E-Commerce SQL Assessment
+# E-Commerce SQL Challenges
 
 This repository documents my solutions to a simulated e-commerce SQL assessment. The dataset represents a hypothetical e-commerce business with **Customers**, **Products**, and **Orders** tables. The challenges progress from easy to advanced and test a wide range of SQL skills.
 
