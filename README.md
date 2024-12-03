@@ -1,6 +1,6 @@
 # Simulated SQL Assessments
 
-Welcome to my SQL Challenges Repository, where I showcase my expertise in solving complex data problems with SQL. These are a collection of sql assessments simulating real world business cases. This repository contains thoughtfully crafted SQL exercises that simulate real-world business scenarios across various industries. Each challenge is designed to demonstrate practical skills such as data extraction, transformation, aggregation, and optimization, as well as leveraging advanced SQL concepts. 
+Welcome to my SQL Challenges Repository, where I showcase my expertise in solving complex data problems with SQL. These are a collection of SQL assessments simulating real world business cases. This repository contains thoughtfully crafted SQL exercises that simulate real-world business scenarios across various industries. Each challenge is designed to demonstrate practical skills such as data extraction, transformation, aggregation, and optimization, as well as leveraging advanced SQL concepts. 
 
 ### 📄 About This Repository ###
 
