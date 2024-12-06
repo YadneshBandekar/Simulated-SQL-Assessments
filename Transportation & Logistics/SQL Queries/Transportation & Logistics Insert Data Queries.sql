@@ -1,7 +1,7 @@
 use challenges;
 go
   
--- insert data into table logistics.fleet 
+-- insert data into table logistics.fleet -- insert data into table logistics.fleet -- insert data into table logistics.fleet 
 INSERT INTO logistics.fleet 
     (VehicleType, Capacity, FuelEfficiency, ActiveSince)
 VALUES 
@@ -15,7 +15,8 @@ VALUES
 
 SELECT * FROM logistics.fleet;
 GO
--- insert data into table logistics.deliveries 
+  
+-- insert data into table logistics.deliveries -- insert data into table logistics.deliveries -- insert data into table logistics.deliveries 
 INSERT INTO logistics.deliveries
     (VehicleID, DriverID, DeliveryDate, Distance, DeliveryTime, Status, Revenue)
 VALUES
@@ -35,7 +36,7 @@ VALUES
 SELECT * FROM logistics.deliveries;
 GO
 
--- insert data into table logistics.drivers 
+-- insert data into table logistics.drivers -- insert data into table logistics.drivers -- insert data into table logistics.drivers 
 INSERT INTO logistics.drivers 
     (FirstName, LastName, HireDate, Status)
 VALUES
