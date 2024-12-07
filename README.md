@@ -18,13 +18,13 @@ The challenges in this repository are inspired by real-world requests, such as g
   4. Learning-Oriented: Detailed comments and explanations for each query to help readers understand the logic.
 
 ### 🧠 Solutions ###
-Step-by-step SQL solutions, optimized for clarity and efficiency. Each solution includes an explanation of the approach taken and the SQL features applied.
+Step-by-step SQL solutions, optimized for clarity and efficiency. Each solution includes an explanation of the approach taken.
 
 ### 🧰 Getting Started ###
 
 Prerequisites
-  1. A relational database of your choice (I typically use SQL Server or PostgreSQL).
-  2. SQL client or IDE (e.g., pgAdmin, DBeaver, or Azure Data Studio).
+  1. A relational database of your choice (I typically use Docker containers for SQL Server or PostgreSQL).
+  2. SQL client or IDE of your choice (I'm currently using Azure Data Studio).
 
 ### 🛠️ How to Use ###
 
@@ -45,7 +45,7 @@ This repository serves as a portfolio of my SQL problem-solving skills and highl
 
 ### 💬 Feedback and Collaboration ###
 
-I’m always open to feedback and discussions! If you have suggestions or would like to collaborate on more SQL challenges, feel free to open an issue or reach out to me directly.
+I’m always open to feedback and discussions! If you have suggestions or would like to collaborate on more SQL challenges, feel free to reach out to me directly.
 
 
 
